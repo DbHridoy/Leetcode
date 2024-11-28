@@ -1,0 +1,1 @@
+{"name":"Local: 13_roman_to_integer","url":"/mnt/Hridoy/Programming/Leetcode/13_roman_to_integer.cpp","tests":[{"id":1732720203063,"input":"3\nIII\nLVIII\nMCMXCIV","output":"3\n58\n1994"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/Hridoy/Programming/Leetcode/13_roman_to_integer.cpp","group":"local","local":true}
